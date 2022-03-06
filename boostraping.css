@@ -1,0 +1,11 @@
+.caja_1{
+    background: #c4cbda; 
+    padding: 5px 20px;
+    text-align: center;
+}
+
+
+.texto-caja{
+    text-align: justify;
+    box-sizing: content-box;
+} 
